@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+<font face="Comic Sans MS" color="White"> 
+<title> Red Panda </title>
+    <style>
+    body {
+        background-image: url("Jungle.jpg");
+} 
+ </style>
+    <body>
+    <h1><header><center>Red Panda</center></header></h1>
+    <center> spooky and cool all in one!</center>
+    <p><center><a href="http://chocolatecitylive.com/wp-content/uploads/2015/03/ccl-website-under-construction.gif">Read This!</a></center></p>
+     <a href="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg">
+    <p><center><img src="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg"/><a/></center></p></font>
+</body>
+</html>
