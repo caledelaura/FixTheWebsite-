@@ -1,2 +1,2 @@
-# Help-my-first-website-not-be-bad. 
-Help my first website not be bad. HTML + CSS, This is mainly for Hacktober Fest
+# Help-my-website-not-be-bad. 
+Help my website not be bad. HTML + CSS,Made this under 2hrs while watching a Live Stream is mainly for Hacktober Fest!
