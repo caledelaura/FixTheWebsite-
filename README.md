@@ -1,2 +1,2 @@
 # Fix The Website!
-Help my website Look  Decent! HTML + CSS,Made this under 2hrs while watching a Live Stream is mainly for Hacktober Fest!
+Help my website Look decent! HTML + CSS, Made this in under 2hrs while watching a live stream. This project is mainly for Hacktober Fest!
