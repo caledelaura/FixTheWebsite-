@@ -7,7 +7,10 @@
 <title> Red Panda </title>
     <style>
     body {
-        background-image: url("Jungle.jpg");
+        background-image: url("{
+    background-image: url("http://hdwgo.com/wp-content/uploads/2015/03/Landscape-1080p-Background.jpg");
+}
+");
 } 
  </style>
     <body>
