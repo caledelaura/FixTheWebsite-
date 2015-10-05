@@ -3,14 +3,14 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
-<font face="Fantasy" color="#610B21"> 
+<font face="Fantasy" color="#00FF00"> 
 <title> Red Panda </title>
     <style>
     body {
     background-image: url("http://payload369.cargocollective.com/1/8/271630/9690022/redpandpa72dpi_567.jpg");
 }
  </style>
-    <body>
+    <body link="#00FF00">
     <h1><header><center>Red Panda</center></header></h1>
     <center> Spooky and cool all in one!</center>
     <p><center><a href="http://www.quickmeme.com/img/21/21e6e8eafa6eb755a65e6a4d89666cc21cad7377daf7f418daa93ea48e002edf.jpg">Read This!</a></center></p>
