@@ -4,21 +4,23 @@
   <title>Red Panda</title>
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
-<font face="Fantasy" color="#00FF00"> 
+<font face="Fantasy" color="#FF9980"> 
 <title> Red Panda </title>
     <style>
     body {
     background-image: url("http://payload369.cargocollective.com/1/8/271630/9690022/redpandpa72dpi_567.jpg");
 }
+
  </style>
     <div>
     <body link="#00FF00">
+    <p> </p>
     <h1><header><center>Red Panda</center></header></h1>
     <center> Spooky and cool all in one!</center>
     <p><center><a href="https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo">Read This!</a></center></p>
      <a href="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg">
     <p><center><img src="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg"/><a/></center></p></font>
-    <div/>
+    
 <footer>
   <p>Posted by: Jarrett Minton</p>
   <p>Helped by: Levi Brand, Mike Julander, Coston Perkins, Cale DeLaura</p>
@@ -27,4 +29,5 @@
   <p style="color: teal; font-style: fantasy; font-size; 20px">Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.</p>
 </footer>
 </body>
+</div>
 </html>
