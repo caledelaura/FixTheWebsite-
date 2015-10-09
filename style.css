@@ -1,10 +1,13 @@
-{
+body {
     background-image: url("http://payload369.cargocollective.com/1/8/271630/9690022/redpandpa72dpi_567.jpg");
 }
-div{ height:100%;
-width:45%
-border: solid 30px lightblue;
-color: lightblue;
+div { height:100%;
+width:30%;
+background-color: #A34747;
 margin: 0 auto;
+text-align: center;
 }
-
+img { width:80%}
+a { color: #FF9980;
+text-decoration: none;
+}
